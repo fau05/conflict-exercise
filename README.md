@@ -1,1 +1,1 @@
-Este es un cambio en la main branch
+Mi nombre es Fausto Gagliano, soy integrante de la comision Nº 2, y utilizare este medio para entregar mis trabajos practicos.
